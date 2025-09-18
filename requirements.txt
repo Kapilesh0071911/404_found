@@ -1,0 +1,7 @@
+gradio
+python-dotenv
+pypdf
+openai>=1.0.0
+requests
+sendgrid
+pydantic
